@@ -22,11 +22,11 @@ section{
 }
 .heading{   
     text-align: center;
-    font-size: 2rems;
+    font-size: 2rem;
     color: black;
     padding: 1rem;
     margin: 2rem 0;
-    background: #F1DEC9;
+    background: #8D7B68;
 }
 .heading span{
     color:azure;
@@ -47,7 +47,7 @@ section{
 header{
     position: fixed;
     top: 0; right: 0; left: 0;
-    background: #F1DEC9;
+    background: #C8B6A6;
     padding: 2rem 9%;
     display: flex;
     align-items: center;
@@ -357,7 +357,7 @@ header .fa-bars{
     gap: 1.5rem;
 }
 .footer .box-container .box{
-    flex:1 1 30rem;
+    flex:1 1 15rem;
 }
 .footer .box-container .box h3{
     font-size: 3rem;
@@ -373,7 +373,7 @@ header .fa-bars{
     font-family: cursive;
 }
 .footer .box-container .box a:hover{
-    color: olive;
+    color: azure;
 }
 .footer .box-container .social-accounts{
     flex:1 1 30rem; 
@@ -392,23 +392,23 @@ header .fa-bars{
     font-family: cursive;
 }
 .footer .box-container .social-accounts a:hover{
-    color: olive;
+    color: azure;
 }
 .footer{
-    background:#F1DEC9;
+    background:#C8B6A6;
 }
 .footer .credit{
     text-align: center;
-    padding: 1.5rem;
-    margin-top: 1.5rem;
-    padding-top: 2.5rem;
+    padding: 1rem;
+    margin-top: 1rem;
+    padding-top: 1rem;
     font-size: 2rem;
     color: #333;
     border-top: .1rem solid rgb(0,0,0,.1);
     font-family: serif;
 }
 .footer .credit span{
-    color: olive;
+    color: #eee;
     font-family: cursive;
 }
 
